@@ -9,7 +9,7 @@
 # to classify numbers of meter. It import the picture from Google Drive and crop the image to run the
 # Tensorflow model to classify the numbers then stitch data to send to InfluxDB to visualize on 
 # Grafana.
-# License under Creative Commons BY-NC-ND
+# License under Apache 2.0
 
 # Import packages
 import io
