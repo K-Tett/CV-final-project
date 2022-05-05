@@ -5,7 +5,7 @@
  * @version 0.1
  * @date 2022-04-26
  * 
- * @copyright Copyright (c) 2022 BY-NC-ND
+ * @copyright Copyright (c) Apache 2.0
  */
 // Initialization
 #include "Arduino.h"
